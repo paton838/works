@@ -8,5 +8,6 @@ This is list of the completed projects.
     - Completed in https://colab.research.google.com/
 - titanic_clean_predict.ipynb
   - A notebook that cleans the Titanic dateset and apply Machine Learning to predict survival rate of the test set.
+    - Details of the project and the dataset is in: https://www.kaggle.com/c/titanic
     - Written in Python 3
     - Completed in https://colab.research.google.com/    

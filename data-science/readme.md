@@ -7,8 +7,8 @@ This is a list of the completed projects.
     - Written in Python 3
     - Completed in https://colab.research.google.com/
 - titanic
-  - A notebook that cleans the Titanic dateset and apply Machine Learning to predict survival rate of the test set.
-    - Details of the project and the dataset is in: https://www.kaggle.com/c/titanic
+  - A notebook that cleans the Titanic dateset and apply Machine Learning to predict survival rate of the test set, and an Analysis notebook that explore the Titanic train dataset.
+    - Description of the project and the dataset is in: https://www.kaggle.com/c/titanic
     - Written in Python 3
     - Completed in https://colab.research.google.com/    
 
